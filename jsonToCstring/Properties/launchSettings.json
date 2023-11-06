@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "jsonMinify": {
+      "commandName": "Project",
+      "commandLineArgs": "-n \"menu_l2\" -i \"C:\\Users\\eric\\source\\repos\\NxT\\NxT-master-9-27-23\\CustomerBaseCode\\EWARM\\..\\Core\\json\\temp\\menu.language2.json\" -o \"C:\\Users\\eric\\source\\repos\\NxT\\NxT-master-9-27-23\\CustomerBaseCode\\EWARM\\..\\Core\\menu_l2.json\" -a "
+    }
+  }
+}
