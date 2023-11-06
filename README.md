@@ -1,7 +1,7 @@
 # jsonToCstring
 Converts a .json file into a c source code file as a named char array.  The json file is minimized before being saved as the named char array of your choice.  Supports UTF8 and works great with the mjson library.
 
-Typical use is to include a .json file in your c project and to add a prebuild directive that converts the .json into a .c file that you can add to your project.  You can also use the -a parameter to append to existing c souce code file, in order have several json files appended to a single c source code file ans seperately named constants.
+Typical use is to include a .json file in your c project and to add a prebuild directive that converts the .json into a .c file that you can add to your project.  You can also use the -a parameter to append to existing c souce code file, in order have several json files appended to a single c source code file as seperately named constants.
 
 Command line use:
 
